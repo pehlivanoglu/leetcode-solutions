@@ -12,3 +12,6 @@ class Solution:
             return True
         
         return False
+
+# Runtime 59ms, beats %34.45
+# Memory 16.48MB, beats %82.55
